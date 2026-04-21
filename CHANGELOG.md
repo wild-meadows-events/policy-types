@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.2.0 - 2026-04-21
+#### Features
+- migrate to deno and jsr - (5b1e476) - Nathan Blair
+
+- - -
+
 ## 0.1.6 - 2026-04-21
 #### Bug Fixes
 - access flag doesn't matter for github - (e76694c) - Nathan Blair
