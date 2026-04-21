@@ -102,4 +102,6 @@ jobs:
         run: bun pm pkg set version=${{ needs.version.outputs.version }}
 
       - name: Publish to GitHub Packages
+        env:
+          NPM_CONFIG_TOKEN: ${{ github.token }}
         run: bun publish -p --no-save
