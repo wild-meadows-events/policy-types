@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.1.5 - 2026-04-21
+#### Bug Fixes
+- publish as public package - (76da30c) - Nathan Blair
+
+- - -
+
 ## 0.1.4 - 2026-04-21
 #### Bug Fixes
 - bun sucks - (923ea6d) - Nathan Blair
