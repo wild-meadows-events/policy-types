@@ -1,6 +1,6 @@
 {
 	"main": "dist/index.js",
-	"name": "@wildmeadows/policy-types",
+	"name": "@wild-meadows-events/policy-types",
 	"type": "module",
 	"types": "dist/index.d.ts",
 	"devDependencies": {
