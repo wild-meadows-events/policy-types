@@ -24,7 +24,6 @@
 		"url": "https://github.com/wild-meadows-events/policy-types.git"
 	},
 	"scripts": {
-		"build": "tsc",
-		"prepublishOnly": "tsc"
+		"build": "tsc"
 	}
 }
