@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.1.6 - 2026-04-21
+#### Bug Fixes
+- access flag doesn't matter for github - (e76694c) - Nathan Blair
+
+- - -
+
 ## 0.1.5 - 2026-04-21
 #### Bug Fixes
 - publish as public package - (76da30c) - Nathan Blair
