@@ -103,4 +103,4 @@ jobs:
       - name: Publish to GitHub Packages
         env:
           NPM_CONFIG_TOKEN: ${{ github.token }}
-        run: bun publish -p --no-save --registry https://npm.pkg.github.com --access public
+        run: bun publish -p --no-save --registry https://npm.pkg.github.com
