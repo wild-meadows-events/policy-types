@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.1.2 - 2026-04-21
+#### Bug Fixes
+- still correcting publish step - (9008e54) - Nathan Blair
+
+- - -
+
 ## 0.1.1 - 2026-04-21
 #### Bug Fixes
 - bun publish should NOT be tsc'ing - (0aa8b6e) - Nathan Blair
