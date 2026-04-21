@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.1.3 - 2026-04-21
+#### Bug Fixes
+- correcting package scope - (02c038d) - Nathan Blair
+
+- - -
+
 ## 0.1.2 - 2026-04-21
 #### Bug Fixes
 - still correcting publish step - (9008e54) - Nathan Blair
