@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.3.0 - 2026-04-24
+#### Features
+- publish under MPL v2 - (178bee0) - Nathan Blair
+
+- - -
+
 ## 0.2.1 - 2026-04-21
 #### Bug Fixes
 - Add Apache License 2.0 - (7cb35b6) - Nathan Blair
